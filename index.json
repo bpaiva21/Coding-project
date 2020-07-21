@@ -1,0 +1,23 @@
+{
+    "PESSOAS":[  
+        {
+    "nome":"bruno",
+    "idade":21,
+    "masculino":true,
+    "endereco":{
+        "rua":"conseolheiro"
+    },
+    "coresfavoritas":["azul","preto"]
+
+ },
+ {
+    "nome":"Ana",
+    "idade":21,
+    "masculino":false,
+    "endereco":{
+        "rua":"conselheiro"
+    },
+    "coresfavoritas":["azul","branco"]   
+ }
+    ]
+}
